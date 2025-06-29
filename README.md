@@ -1,3 +1,5 @@
-for run command:
-npm install --legacy-pper-deps
+for running the project 
+USE:
+npm install --legacy-peer-deps
 npm install --force
+npm run dev
